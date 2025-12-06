@@ -3,9 +3,9 @@
 ### Summary 
 
 - [Hierarchy](#hierarchy)
-- [What do I do ?](#what-do-i-do-?)
-- [What is it used for?](#what-is-it-used-for-?)
-- [What should be the result ?](#What-should-be-the-result-?)
+- [What do I do ?](#what-do-i-do-)
+- [What is it used for?](#what-is-it-used-for-)
+- [What should be the result ?](#What-should-be-the-result-)
 
 ##
 
